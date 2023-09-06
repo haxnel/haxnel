@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img  src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47031nf2ag9k2bdy1lvo2h0v223p6r4ltt2y61sw9k&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="300" />
+  <img  src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="260" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/lintang-hannan123/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,7 +19,7 @@
 </div>
 
 ### 👨‍💻 About Me :
- <img align="right" src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47031nf2ag9k2bdy1lvo2h0v223p6r4ltt2y61sw9k&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="400"/>
+ <img align="right" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 
 I'm a Front-End Developer and Software QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
