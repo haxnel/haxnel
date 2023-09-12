@@ -23,7 +23,7 @@
 
 I'm a Front-End Developer and Software QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- 🔭 I’m intern as a Front-End Web Developer in Archipelago Internation and contributing to Front-End for building employes web applications in private repository.
+- 🔭 I’m intern as a Front-End Web Developer in Archipelago International and contributing to Front-End for building employes web applications in private repository.
 
 - 🌱 Exploring Technical Writing QA, responsive display, fetching API for better documentation and performance.
 
